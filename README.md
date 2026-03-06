@@ -8,16 +8,17 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Skills Learned
 
 - Creating OUs, Users, and Groups in Active Directory to simulate a work environment
+- Joining a user machine to the domain using a static IP address
 - Group Policy Management - Creating, managing, applying and testing GPOs and security across different groups and users
 - File Sharing Services - Set up network shares and managed folder/file permissions 
--   Utilized NTFS permissions and network shares to test access-based enumeration
+- Utilized NTFS permissions and network shares to test access-based enumeration
+- Implemented a simple service account
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- VirtualBox to set up the virtual work environment for the Server and user machines
+- Windows Server 2022 and Active Directory to deploy changes for users and groups joined to the domain
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
