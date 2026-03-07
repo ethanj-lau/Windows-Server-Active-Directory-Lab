@@ -1,7 +1,6 @@
 # Windows Server Active Directory Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 This Windows Server Active Directory Lab aimed to establish a simulated work environment using virtual machines and Active Directory. The primary focus was for me to develop familiarity with creating and managing users, groups, OUs, GPOs and file/foilder permissions. This hands-on experience was designed to introduce me to the basics of Active Directory.
 
