@@ -26,4 +26,7 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-*Ref 1: Network Diagram*
+*Ref 1: Joining the end user machine to the domain*
+*Ref 2: OU setup*
+*Ref 3: Example GPO setup -- list other GPOs I set up*
+*Ref 4: Network sharing and fodler permissions*
