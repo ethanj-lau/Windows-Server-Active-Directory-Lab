@@ -31,14 +31,16 @@ This Windows Server Active Directory Lab aimed to establish a simulated work env
 *Ref 3: OU setup with different OUs, users and groups as needed for each department in the region*
 <img width="939" height="677" alt="AD-Lab_OU-Setup" src="https://github.com/user-attachments/assets/770520a3-3409-4e1a-ad8e-3a5ebb765a1c" />
 
-*Ref 4: Here are some of the GPOs I created to help boost security, like account lockout and password policies, as well as policies that restrict the use of certain features, like control panel and USB devices.*
+*Ref 4: Resetting Passwords, Account lock/unlock and setting logon hours*
+
+*Ref 5: Here are some of the GPOs I created to help boost security, like account lockout and password policies, as well as policies that restrict the use of certain features, like control panel and USB devices.*
 
 <img width="444" height="898" alt="AD-Lab_GPO-Policies" src="https://github.com/user-attachments/assets/1c0e01b7-acaa-4022-b10b-409f4010c5e1" />\
 
-*Ref 5: The Desktop Wallpaper GPO changed the wallpaper for all users to this funny image of Matikanetannhauser*
+*Ref 6: The Desktop Wallpaper GPO changed the wallpaper for all users to this funny image of Matikanetannhauser*
 <img width="1460" height="977" alt="AD-Lab_Wallpaper" src="https://github.com/user-attachments/assets/81aef019-5b28-45db-8702-1520d9ab43bf" />
 
-*Ref 6: In this screenshot, I set up network sharing on the user's machine but changed the NTFS permissions and enabled access-based enumeration making the confidential HR folder not visible to this user on the IT team*
+*Ref 7: In this screenshot, I set up network sharing on the user's machine but changed the NTFS permissions and enabled access-based enumeration making the confidential HR folder not visible to this user on the IT team*
 <img width="1908" height="1011" alt="AD-Lab_Network-Share-Access-Based-Enumeration" src="https://github.com/user-attachments/assets/195747d2-eac8-40be-877b-3dfc107ed4ed" />
 
 
