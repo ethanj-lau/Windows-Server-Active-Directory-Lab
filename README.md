@@ -26,12 +26,26 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
+<img width="1919" height="1079" alt="AD-Lab_DNS-Config" src="https://github.com/user-attachments/assets/aed2e42e-5eef-4ca4-a188-5364dd6c5e7b" />
+
 *Ref 1: Setting up DNS on Windows Server and user machine with static ip addresses*
+
+<img width="743" height="677" alt="AD-Lab_Join-Domain" src="https://github.com/user-attachments/assets/07bbd0ce-dbed-4a6e-8ddd-1da284c4b014" />
 
 *Ref 2: Joining the end user machine to the domain*
 
+<img width="939" height="677" alt="AD-Lab_OU-Setup" src="https://github.com/user-attachments/assets/770520a3-3409-4e1a-ad8e-3a5ebb765a1c" />
+
 *Ref 3: OU setup*
+
+<img width="444" height="898" alt="AD-Lab_GPO-Policies" src="https://github.com/user-attachments/assets/1c0e01b7-acaa-4022-b10b-409f4010c5e1" />
 
 *Ref 4: Example GPO setup -- list other GPOs I set up*
 
-*Ref 5: Network sharing and fodler permissions*
+<img width="1460" height="977" alt="AD-Lab_Wallpaper" src="https://github.com/user-attachments/assets/81aef019-5b28-45db-8702-1520d9ab43bf" />
+
+*Ref 5: The Desktop Wallpaper GPO changed the wallpaper for all users to this funny image of Matikanetannhauser*
+
+<img width="1908" height="1011" alt="AD-Lab_Network-Share-Access-Based-Enumeration" src="https://github.com/user-attachments/assets/195747d2-eac8-40be-877b-3dfc107ed4ed" />
+
+*Ref 6: Network sharing and fodler permissions*
