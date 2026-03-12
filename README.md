@@ -8,6 +8,7 @@ This Windows Server Active Directory Lab aimed to establish a simulated work env
 ### Skills Learned
 
 - Creating and managing OUs, Users, and Groups in Active Directory to simulate a work environment
+- Managing User Account access - resetting passwords, account lock/unlock, and setting active hours
 - Joining a user machine to the domain using a static IP address
 - Group Policy Management - Creating, managing, applying and testing GPOs and security across different groups and users
 - File Sharing Services - Set up network shares and managed folder/file permissions 
