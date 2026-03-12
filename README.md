@@ -32,6 +32,7 @@ This Windows Server Active Directory Lab aimed to establish a simulated work env
 <img width="939" height="677" alt="AD-Lab_OU-Setup" src="https://github.com/user-attachments/assets/770520a3-3409-4e1a-ad8e-3a5ebb765a1c" />
 
 *Ref 4: Here are some of the GPOs I created to help boost security, like account lockout and password policies, as well as policies that restrict the use of certain features, like control panel and USB devices.*
+
 <img width="444" height="898" alt="AD-Lab_GPO-Policies" src="https://github.com/user-attachments/assets/1c0e01b7-acaa-4022-b10b-409f4010c5e1" />
 
 *Ref 5: The Desktop Wallpaper GPO changed the wallpaper for all users to this funny image of Matikanetannhauser*
