@@ -37,7 +37,7 @@ This Windows Server Active Directory Lab aimed to establish a simulated work env
 *Ref 5: To reset user passwords, I right click the user in the Active Directory Users and Computers Menu to bring up the following window.*
 <img width="1019" height="723" alt="AD-Lab_Reset-Password" src="https://github.com/user-attachments/assets/806d10a0-97ac-44d5-8f7e-25650b203229" />
 
-*Ref 6: Here are some of the GPOs I created to help boost security, like account lockout and password policies, as well as policies that restrict the use of certain features, like control panel and USB devices.*
+*Ref 6: Here are some of the GPOs I created to help boost security, like account lockout and password policies, as well as policies that restrict the use of certain features, like control panel and USB devices.*\
 <img width="444" height="898" alt="AD-Lab_GPO-Policies" src="https://github.com/user-attachments/assets/1c0e01b7-acaa-4022-b10b-409f4010c5e1" />\
 
 *Ref 7: The Desktop Wallpaper GPO changed the wallpaper for all users to this funny image of Matikanetannhauser*
