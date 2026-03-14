@@ -34,7 +34,7 @@ This Windows Server Active Directory Lab aimed to establish a simulated work env
 *Ref 4: Below is the Account Properties screen where I can edit Account lock/unlock, set logon hours, and more.*
 <img width="592" height="708" alt="AD-Lab_Account-Details" src="https://github.com/user-attachments/assets/23edeaf8-4847-4258-9d75-5fac165c4aee" />
 
-*Ref 5: To reset user passwords, I right click the user in the Active Directory Users and Computers Menu to bring up the following screen.*
+*Ref 5: To reset user passwords, I right click the user in the Active Directory Users and Computers Menu to bring up the following window.*
 <img width="1019" height="723" alt="AD-Lab_Reset-Password" src="https://github.com/user-attachments/assets/806d10a0-97ac-44d5-8f7e-25650b203229" />
 
 *Ref 6: Here are some of the GPOs I created to help boost security, like account lockout and password policies, as well as policies that restrict the use of certain features, like control panel and USB devices.*
