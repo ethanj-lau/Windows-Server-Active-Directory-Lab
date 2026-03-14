@@ -43,7 +43,7 @@ This Windows Server Active Directory Lab aimed to establish a simulated work env
 *Ref 7: The Desktop Wallpaper GPO changed the wallpaper for all users to this funny image of Matikanetannhauser*
 <img width="1460" height="977" alt="AD-Lab_Wallpaper" src="https://github.com/user-attachments/assets/81aef019-5b28-45db-8702-1520d9ab43bf" />
 
-*Ref 8: In this screenshot, I set up network sharing on the user's machine but changed the NTFS permissions and enabled access-based enumeration making the confidential HR folder not visible to this user on the IT team*
+*Ref 8: In this screenshot, I set up network sharing on the user's machine. I changed the NTFS permissions and enabled access-based enumeration which made Solaire, a member of the IT team, unable to view the Confidential HR folder.*
 <img width="1908" height="1011" alt="AD-Lab_Network-Share-Access-Based-Enumeration" src="https://github.com/user-attachments/assets/195747d2-eac8-40be-877b-3dfc107ed4ed" />
 
 
